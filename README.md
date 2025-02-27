@@ -3,8 +3,8 @@
 <h2>👨‍💻 Software Development/ Cyber Security Projects:</h2>
 
 - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
-  - [Active Directory Home Lab](https://github.com/winstonhibbert/LABURL)
-  - [Hello World](https://github.com/winstonhibbert/LABURL)
+  - [Active Directory Home Lab](https://github.com/winstonhibbert/ActiveDirectoryLab/)
+  - [Hello World](https://github.com/winstonhibbert/ActiveDirectoryLab/)
  
 <h2> 📃 Certifications</h2>
 - [Google Cybersecurity Professional Certificate](URL)
