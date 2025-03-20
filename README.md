@@ -9,7 +9,7 @@
   - [Basic Home SOC in Azure](https://github.com/winstonhibbert/CyberHomeLab)
  
 <h2> 📃 Certifications</h2>
-- [Google Cybersecurity Professional Certificate](URL)
+- [Google Cybersecurity Professional Certificate](https://www.credly.com/badges/c1e3e67c-e36a-4db5-99e4-c4701de339eb/linked_in_profile)
 
 <h2>📺 Popular YouTube Videos</h2>
 
