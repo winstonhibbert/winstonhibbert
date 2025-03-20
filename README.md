@@ -1,4 +1,4 @@
-<h1>Hi, I'm Winston! <br/><a href="https://github.com/winstonhibbert/winstonhibbert">Programmer</a>, <a href="www.linkedin.com/in/winston-hibbert-262a44271">Cybersecurity Professional</a> <!-- <a href="https://youtube.com/@whibbert?si=Ue8K2AI_c3q0I0yy">YouTuber</a></h1> -->
+<h1>Hi, I'm Winston! <br/><a href="https://github.com/winstonhibbert/winstonhibbert">Programmer</a> | <a href="www.linkedin.com/in/winston-hibbert-262a44271">Cybersecurity Professional</a> <!-- <a href="https://youtube.com/@whibbert?si=Ue8K2AI_c3q0I0yy">YouTuber</a></h1> -->
 
 <h2>👨‍💻 Software Development/ Cyber Security Projects:</h2>
 
