@@ -1,5 +1,10 @@
 <h1>Hi, I'm Winston! <br/><a href="https://github.com/winstonhibbert/winstonhibbert">Programmer</a> | <a href="www.linkedin.com/in/winston-hibbert-262a44271">Cybersecurity Professional</a> 🔐<!-- <a href="https://youtube.com/@whibbert?si=Ue8K2AI_c3q0I0yy">YouTuber</a></h1> -->
 
+## ⚠️ Vulnerability Management Projects
+
+- **[Vulnerability Management Program Implementation](https://github.com/winstonhibbert/vulnerability-management-program)**
+- **[Programmatic Vulnerability Remediations (PowerShell and BASH)](https://github.com/joshcybertest/programmatic-vulnerability-remediations)**
+
 <h2>👨‍💻 Software Development/ Cyber Security Projects:</h2>
 
 - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
