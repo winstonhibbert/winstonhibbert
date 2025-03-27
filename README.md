@@ -5,6 +5,12 @@
 - **[Vulnerability Management Program Implementation](https://github.com/winstonhibbert/vulnerability-management-program)**
 - **[Programmatic Vulnerability Remediations (PowerShell and BASH)](https://github.com/joshcybertest/programmatic-vulnerability-remediations)**
 
+
+## 🚨 Threat Hunting and Security Operations
+
+- **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/winstonhibbert/threat-hunting-scenario-tor)**
+
+
 <h2>👨‍💻 Software Development/ Cyber Security Projects:</h2>
 
 - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
