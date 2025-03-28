@@ -25,6 +25,7 @@
     Google Cybersecurity Professional Certificate
 </a>
 
+Comptia Security+ (Expected: 05/2025)
 
 <!--
 <h2>📺 Popular YouTube Videos</h2>
