@@ -3,7 +3,7 @@
 ## ⚠️ Vulnerability Management Projects
 
 - **[Vulnerability Management Program Implementation](https://github.com/winstonhibbert/vulnerability-management-program)**
-- **[Programmatic Vulnerability Remediations (PowerShell and BASH)](https://github.com/joshcybertest/programmatic-vulnerability-remediations)**
+- **[Programmatic Vulnerability Remediations (PowerShell and BASH)](https://github.com/winstonhibbert/programmatic-vulnerability-remediations/tree/main)**
 
 
 ## 🚨 Threat Hunting and Security Operations
