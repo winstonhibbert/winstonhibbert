@@ -13,7 +13,7 @@
 
 <h2>👨‍💻 Software Development/ Cyber Security Projects:</h2>
 
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
+<b>Data Structures and Algorithms Practice (AlgoExpert)</b>
   - [Basic Home SOC in Azure](https://github.com/winstonhibbert/CyberHomeLab)
   - [Active Directory Home Lab](https://github.com/winstonhibbert/ActiveDirectoryLab/)
   - [Active Directory Bulk User Creation](https://github.com/winstonhibbert/AD_PS)
