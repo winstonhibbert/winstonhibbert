@@ -9,6 +9,7 @@
 ## 🚨 Threat Hunting and Security Operations
 
 - **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/winstonhibbert/threat-hunting-scenario-tor)**
+- **[Threat Hunting Incident: Data Exfiltration by Employee](https://github.com/winstonhibbert/Data-Exfiltration-Suspicion)**
 
 
 <h2>👨‍💻 Software Development/ Cyber Security Projects:</h2>
