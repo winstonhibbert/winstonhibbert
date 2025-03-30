@@ -12,4 +12,4 @@
 <p>If <strong>"Password never expires"</strong> is selected for any account, this is a finding.</p>
 
 <h2>Reference</h2>
-<p><a href="https://stigaview.com/products/win10/v3r1/WN10-00-000090/" target="_blank">STIG Reference Link</a></p>
+<p>https://stigaview.com/products/win10/v3r1/WN10-00-000090/</p>
