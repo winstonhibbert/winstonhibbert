@@ -11,6 +11,7 @@
 
 - **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/winstonhibbert/threat-hunting-scenario-tor)**
 - **[Threat Hunting Incident: Data Exfiltration by Employee](https://github.com/winstonhibbert/Data-Exfiltration-Suspicion)**
+- **[Threat Hunting Incident: Exposed Device On The Internet](https://github.com/winstonhibbert/exposed-device/)**
 
 
 <h2>👨‍💻 Software Development/ Cyber Security Projects:</h2>
@@ -23,11 +24,15 @@
   
  
 <h2> 📃 Certifications</h2>
-<a href="https://www.credly.com/badges/c1e3e67c-e36a-4db5-99e4-c4701de339eb/linked_in_profile" target="_blank" rel="noopener noreferrer">
-    Google Cybersecurity Professional Certificate
-</a>
+<ul>
+  <li>
+    <a href="https://www.credly.com/badges/c1e3e67c-e36a-4db5-99e4-c4701de339eb/linked_in_profile" target="_blank" rel="noopener noreferrer">
+      Google Cybersecurity Professional Certificate
+    </a>
+  </li>
+  <li>Comptia Security+ (Expected: 06/2025)</li>
+</ul>
 
-Comptia Security+ (Expected: 06/2025)
 
 <!--
 <h2>📺 Popular YouTube Videos</h2>
