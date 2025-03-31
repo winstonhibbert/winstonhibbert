@@ -15,6 +15,7 @@
 - **[Threat Hunting Incident: Sudden Network Slowdown](https://github.com/winstonhibbert/sudden-network-slowdowns/)**
 - **[Incident Response: Create Alert Rule (Potential Impossible Travel)](https://github.com/winstonhibbert/Alert-Impossible-Travel/)**
 - **[Incident Response: Create Alert Rule (PowerShell Suspicious Web Request)](https://github.com/winstonhibbert/Alert-Powershell-Suspicious-Web-Request/)**
+- **[Incident Response: Create Alert Rule (Brute Force Attempt Detection)](https://github.com/winstonhibbert/Brute-Force-Attempt-Detection/)**
 
 
 <h2>👨‍💻 Software Development/ Cyber Security Projects:</h2>
