@@ -4,7 +4,7 @@
 
 - **[Vulnerability Management Program Implementation](https://github.com/winstonhibbert/vulnerability-management-program)**
 - **[Programmatic Vulnerability Remediations (PowerShell and BASH)](https://github.com/winstonhibbert/programmatic-vulnerability-remediations/tree/main)**
-- **[STIG Implementations and Remediations (PowerShell)](https://github.com/winstonhibbert/winstonhibbert/tree/main/STIGS)**
+- **[10+ STIG Implementations and Remediations (PowerShell)](https://github.com/winstonhibbert/winstonhibbert/tree/main/STIGS)**
 
 
 ## 🚨 Threat Hunting and Security Operations 🚨
