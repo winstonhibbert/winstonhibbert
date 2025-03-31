@@ -13,6 +13,7 @@
 - **[Threat Hunting Incident: Data Exfiltration by Employee](https://github.com/winstonhibbert/Data-Exfiltration-Suspicion)**
 - **[Threat Hunting Incident: Exposed Device On The Internet](https://github.com/winstonhibbert/exposed-device/)**
 - **[Incident Response: Create Alert Rule (Potential Impossible Travel)](https://github.com/winstonhibbert/Alert-Impossible-Travel/)**
+- **[Incident Response: Create Alert Rule (PowerShell Suspicious Web Request)](https://github.com/winstonhibbert/Alert-Powershell-Suspicious-Web-Request/)**
 
 
 <h2>👨‍💻 Software Development/ Cyber Security Projects:</h2>
