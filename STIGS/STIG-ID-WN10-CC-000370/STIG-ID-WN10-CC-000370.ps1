@@ -1,6 +1,6 @@
  <#
 .SYNOPSIS
-    .
+    The convenience PIN for Windows 10 must be disabled.
 
 .NOTES
     Author          : Winston Hibbert
@@ -49,5 +49,4 @@ if (Test-Path "$RegistryPath\$RegistryValueName") {
     Write-Host "Registry value not found. Creating value: $RegistryValueName with $RegistryValue"
     New-ItemProperty -Path $RegistryPath -Name $RegistryValueName -Value $RegistryValue -PropertyType DWord -Force
 }
-
 Write-Host "Convenience PIN login has been disabled successfully."
