@@ -26,7 +26,12 @@
   - [Active Directory Home Lab](https://github.com/winstonhibbert/ActiveDirectoryLab/)
   - [Active Directory Bulk User Creation](https://github.com/winstonhibbert/AD_PS)
   - [Phishing Attack Simulation with Gophish](https://github.com/winstonhibbert/gophish)
-  
+
+  ## 🌐 Networking Projects
+
+- **[Wireshark Network Inspection Lab](https://github.com/winstonhibbert/wireshark-network-protocol-inspection/)**  
+  Hands-on walkthroughs using Wireshark to analyze various protocols (HTTP, DNS, TCP handshakes) and detect anomalies.
+
  
 <h2> 📃 Certifications</h2>
 <ul>
