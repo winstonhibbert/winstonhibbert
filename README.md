@@ -13,6 +13,7 @@
 - **[Threat Hunting Incident: Data Exfiltration by Employee](https://github.com/winstonhibbert/Data-Exfiltration-Suspicion)**
 - **[Threat Hunting Incident: Exposed Device On The Internet](https://github.com/winstonhibbert/exposed-device/)**.
 - **[Threat Hunting Incident: Sudden Network Slowdown](https://github.com/winstonhibbert/sudden-network-slowdowns/)**
+- **[Threat Hunting Incident: Password Spray Attempt](https://github.com/winstonhibbert/password-spray-attempt/)**
 - **[Incident Response: Create Alert Rule (Potential Impossible Travel)](https://github.com/winstonhibbert/Alert-Impossible-Travel/)**
 - **[Incident Response: Create Alert Rule (PowerShell Suspicious Web Request)](https://github.com/winstonhibbert/Alert-Powershell-Suspicious-Web-Request/)**
 - **[Incident Response: Create Alert Rule (Brute Force Attempt Detection)](https://github.com/winstonhibbert/Brute-Force-Attempt-Detection/)**
