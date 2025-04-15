@@ -30,7 +30,7 @@
   ## 🌐 Networking Projects
 
 - **[Wireshark Network Inspection Lab](https://github.com/winstonhibbert/wireshark-network-protocol-inspection/)**  
-  Hands-on walkthroughs using Wireshark to analyze various protocols (HTTP, DNS, TCP handshakes) and detect anomalies.
+  Hands-on walkthroughs using Wireshark to analyze various protocols (HTTP, DNS, TCP handshakes).
 
  
 <h2> 📃 Certifications</h2>
