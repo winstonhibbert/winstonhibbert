@@ -2,14 +2,14 @@
 
 ## ⚠️ Vulnerability Management Projects
 
-- **[Vulnerability Management Program Implementation](https://github.com/winstonhibbert/CyberRange-Breach/tree/main)**
+- **[Vulnerability Management Program Implementation](https://github.com/winstonhibbert/vulnerability-management-program)**
 - **[Programmatic Vulnerability Remediations (PowerShell and BASH)](https://github.com/winstonhibbert/programmatic-vulnerability-remediations/tree/main)**
 - **[20 STIG Implementations and Remediations (PowerShell)](https://github.com/winstonhibbert/winstonhibbert/tree/main/STIGS)**
 
 
 ## 🚨 Threat Hunting and Security Operations 🚨
 
-- **[CYBER RANGE BREACH - CASE ID: SIR21183209](https://github.com/winstonhibbert/threat-hunting-scenario-tor)**
+- **[CYBER RANGE BREACH - CASE ID: SIR21183209](https://github.com/winstonhibbert/CyberRange-Breach/)**
 - **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/winstonhibbert/threat-hunting-scenario-tor)**
 - **[Threat Hunting Incident: Data Exfiltration by Employee](https://github.com/winstonhibbert/Data-Exfiltration-Suspicion)**
 - **[Threat Hunting Incident: Exposed Device On The Internet](https://github.com/winstonhibbert/exposed-device/)**.
